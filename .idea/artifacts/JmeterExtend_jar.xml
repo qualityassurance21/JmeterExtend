@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JmeterExtend:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sha256</output-path>
+    <root id="archive" name="JmeterExtend.jar">
+      <element id="module-output" name="JmeterExtend" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ApacheJmeter32/lib/ext/ApacheJMeter_core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ApacheJmeter32/lib/ext/ApacheJMeter_functions.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
